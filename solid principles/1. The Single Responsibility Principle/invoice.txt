@@ -1,0 +1,10 @@
+
+10 x The Alchemist $145 = $1450
+Discount Rate: 0.5
+Tax Rate: 0.15
+Total: 833.75
+
+100 x The Alchemist Part 2 $150 = $15000
+Discount Rate: 0.05
+Tax Rate: 0.2
+Total: 17100.0
