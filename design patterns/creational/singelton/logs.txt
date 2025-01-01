@@ -1,0 +1,5 @@
+This log message is saved to a file.
+This log message is saved to a file.
+This log message is saved to a file.
+This log message is saved to a file.
+This message is logged to both console and file.
